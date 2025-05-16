@@ -4,6 +4,9 @@ Custom template for [Cookiebot](https://www.cookiebot.com/) cookie banners. Copy
 
 Designed for Finnish rendition of EU cookie law but it is similar in many countries in EU.
 
+## How to Implement Template
+[Docs](https://support.cookiebot.com/hc/en-us/articles/360003921454-Can-I-build-my-own-fully-customized-cookie-consent-banner)
+
 ## Dialog 1: Neutral
 
 True neutral option without highlighted accept button and banner is located at the bottom of the screen without blocking the user before decision.
